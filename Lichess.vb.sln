@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LichessControls", "LichessControls\LichessControls.vbproj", "{A9256930-4FBF-4590-8A37-ADB9583A29B0}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LichessClient", "LichessClient\LichessClient.vbproj", "{3F3C030E-B90E-4A5A-90CD-5E810A9805A8}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LichessApi", "LichessApi\LichessApi.vbproj", "{6F00C003-6A19-49D7-B2A5-528D3DF5F066}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9256930-4FBF-4590-8A37-ADB9583A29B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9256930-4FBF-4590-8A37-ADB9583A29B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9256930-4FBF-4590-8A37-ADB9583A29B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9256930-4FBF-4590-8A37-ADB9583A29B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F3C030E-B90E-4A5A-90CD-5E810A9805A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F3C030E-B90E-4A5A-90CD-5E810A9805A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F3C030E-B90E-4A5A-90CD-5E810A9805A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F3C030E-B90E-4A5A-90CD-5E810A9805A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F00C003-6A19-49D7-B2A5-528D3DF5F066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F00C003-6A19-49D7-B2A5-528D3DF5F066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F00C003-6A19-49D7-B2A5-528D3DF5F066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F00C003-6A19-49D7-B2A5-528D3DF5F066}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEE28525-F318-4D21-B892-3B63A68FD3BF}
+	EndGlobalSection
+EndGlobal

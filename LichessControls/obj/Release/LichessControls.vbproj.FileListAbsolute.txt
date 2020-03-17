@@ -1,0 +1,9 @@
+U:\gio\vb projects\lichess.vb\Lichess.vb\LichessControls\bin\Release\LichessControls.dll
+U:\gio\vb projects\lichess.vb\Lichess.vb\LichessControls\bin\Release\LichessControls.pdb
+U:\gio\vb projects\lichess.vb\Lichess.vb\LichessControls\bin\Release\LichessControls.xml
+U:\gio\vb projects\lichess.vb\Lichess.vb\LichessControls\obj\Release\LichessControls.Resources.resources
+U:\gio\vb projects\lichess.vb\Lichess.vb\LichessControls\obj\Release\LichessControls.vbproj.GenerateResource.cache
+U:\gio\vb projects\lichess.vb\Lichess.vb\LichessControls\obj\Release\LichessControls.dll
+U:\gio\vb projects\lichess.vb\Lichess.vb\LichessControls\obj\Release\LichessControls.xml
+U:\gio\vb projects\lichess.vb\Lichess.vb\LichessControls\obj\Release\LichessControls.pdb
+U:\gio\vb projects\lichess.vb\Lichess.vb\LichessControls\obj\Release\LichessControls.vbprojAssemblyReference.cache
